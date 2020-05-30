@@ -1,2 +1,0 @@
-# firstry
-Created with CodeSandbox
